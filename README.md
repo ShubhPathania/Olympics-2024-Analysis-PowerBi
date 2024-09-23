@@ -74,7 +74,7 @@ A mobile layout report was also created to ensure the dashboards are accessible 
 # 📜 Conclusion
 This Power BI project on the Olympics 2024 offers a detailed and interactive analysis of various aspects of the games. By leveraging the dashboards and interactive features, users can gain insights into the performance of different countries and athletes, explore historical trends and make informed decisions or predictions for future games. The project demonstrates the power of data visualization in enhancing our understanding of complex datasets.
 
-# 🛠️ Build With
+# 🛠️ Built With
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/>
 </a>
