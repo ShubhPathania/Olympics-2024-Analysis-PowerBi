@@ -11,12 +11,17 @@ This project involves analyzing data from the recently played Olympic games in P
 The objective of this project is to provide a comprehensive analysis of the Olympic games, focusing on key metrics such as medal counts by country, medal types, athlete performance by gender, age category and historical trends in medal distribution. The goal is to create an interactive and visually appealing dashboard that offers insights into the performance of countries and athletes over time.
 
 # 📝 Project Highlights
-- **Medals by Country and Type:** Analysis of medals (Gold, Silver, Bronze) won by each country.
-- **Medals by Country and Gender:** Breakdown of medals by gender (Male, Female) for each country.
-- **Athletes by Country and Medal Type:** Examination of athletes performance by country and the type of medals they won.
-- **Athletes by Country and Gender:** Gender-specific analysis of athletes from different countries.
-- **Athletes by Age Category:** Categorization of athletes based on age and their corresponding performance.
-- **Historical Data Analysis:** Exploration of total medals and types of medals won each year, providing a trend analysis over time.
+🏅 **Medals by Country and Type:** Analysis of medals (Gold, Silver, Bronze) won by each country.
+
+🏅 **Medals by Country and Gender:** Breakdown of medals by gender (Male, Female) for each country.
+
+🤼‍♂️ **Athletes by Country and Medal Type:** Examination of athletes performance by country and the type of medals they won.
+
+🤾‍♀️ **Athletes by Country and Gender:** Gender-specific analysis of athletes from different countries.
+
+🏌️‍♀️ **Athletes by Age Category:** Categorization of athletes based on age and their corresponding performance.
+
+⌛️ **Historical Data Analysis:** Exploration of total medals and types of medals won each year, providing a trend analysis over time.
 
 # Interactive Features
 *To enhance the user experience and streamline navigation, the following interactive features have been added to the dashboards:*
